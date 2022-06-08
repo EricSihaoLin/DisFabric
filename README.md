@@ -13,5 +13,3 @@
 + Announces when a players get an advancement
 + Sends commands to server by Discord
 + Markdown support in game
-+ ¯\\\_(ツ)\_/¯
-
